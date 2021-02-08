@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "description": "Unknown",
+        "cloudTypeId": 0,
+        "group": "",
+        "cloudType": "Unknown"
+    },
+    {
+        "id": 4,
+        "description": "Pasaporte",
+        "cloudTypeId": 2,
+        "group": "",
+        "cloudType": "Documento"
+    },
+    {
+        "id": 1,
+        "description": "Póliza de vida",
+        "cloudTypeId": 1,
+        "group": "VIDA",
+        "cloudType": "Póliza"
+    },
+    {
+        "id": 3,
+        "description": "INE",
+        "cloudTypeId": 2,
+        "group": "",
+        "cloudType": "Documento"
+    },
+    {
+        "id": 2,
+        "description": "Póliza de auto",
+        "cloudTypeId": 1,
+        "group": "PERTENENCIAS",
+        "cloudType": "Póliza"
+    }
+]

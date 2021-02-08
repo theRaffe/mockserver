@@ -1,0 +1,76 @@
+{
+    "idRepuve": 45798087,
+    "placa": "MSB5709",
+    "vin": "3N1CC1AS5FK199352",
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "anioModelo": 2015,
+    "tipo": "SEDAN",
+    "clase": "AUTOMOVIL",
+    "complemento": " SEDAN 4 PUERTAS CINT. 3 PUNTOS S/ AIRBAGS CIVAC CUERNAVACA, MORELOS. MEXICO HR16 1.6L 4 CIL",
+    "nrpv": "4716HB71",
+    "institucion": "NISSAN MEXICANA, S.A. DE C.V.",
+    "fechaInscripcion": "20/06/2014",
+    "horaInscripcion": "09:47:37",
+    "entidad": "MEXICO",
+    "fechaActualiza": "13/08/2014",
+    "fechaReplica": "10/11/2016",
+    "horaReplica": "12:19",
+    "estatus": 1,
+    "numPuertas": "4 PUERTAS",
+    "paisOrigen": "MEXICO",
+    "version": "TM DRIVE AC 16L",
+    "cilindrada": "1.6L",
+    "numCilindros": "L4",
+    "plantaEnsamble": "CIVAC CUERNAVACA, MORELOS. MEXICO",
+    "fechaEmplacado": "14/07/2014",
+    "idRegistro": 46115615,
+    "messageCode": 2,
+    "messageCodeOcra": 2,
+    "recorded": false,
+    "xniv": false,
+    "xnci": false,
+    "xplaca": false,
+    "folio": "20731022",
+    "idBitacoraMovil": 99677823,
+    "uecs": false,
+    "makeId": 29,
+    "subMakeId": 46,
+    "homologatedResult": [
+        {
+            "id": 4209,
+            "vehicleKey": "012902024023",
+            "description": "TIIDA SEDAN ADVANCE L4 ISM AUT 4 DIS CA CE TELA CD SQ CB",
+            "occupants": 5,
+            "selected": false
+        },
+        {
+            "id": 4208,
+            "vehicleKey": "012902024022",
+            "description": "TIIDA SEDAN ADVANCE L4 ISM STD 4 DIS CA CE TELA CD SQ CB",
+            "occupants": 5,
+            "selected": false
+        },
+        {
+            "id": 4205,
+            "vehicleKey": "012902024019",
+            "description": "TIIDA SEDAN DRIVE L4 ISM STD 4 DIS CA SE TELA CD SQ SB",
+            "occupants": 5,
+            "selected": true
+        },
+        {
+            "id": 4207,
+            "vehicleKey": "012902024021",
+            "description": "TIIDA SEDAN SENSE L4 ISM AUT 4 DIS CA SE TELA CD SQ CB",
+            "occupants": 5,
+            "selected": false
+        },
+        {
+            "id": 4206,
+            "vehicleKey": "012902024020",
+            "description": "TIIDA SEDAN SENSE L4 ISM STD 4 DIS CA SE TELA CD SQ SB",
+            "occupants": 5,
+            "selected": false
+        }
+    ]
+}

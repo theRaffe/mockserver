@@ -1,0 +1,13 @@
+{
+    "status": "OK",
+    "statusCode": 200,
+    "data": {
+        "id": 68,
+        "holderName": "Jonan Hill",
+        "lastFourDigits": "2222",
+        "cvv": "***",
+        "cardNumber": "411111xxxxxx2222",
+        "expirationDate": "2024/12",
+        "publicToken": "22d284f4a0eedd7d1cbe9e309c125357"
+    }
+}

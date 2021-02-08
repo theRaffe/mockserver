@@ -1,0 +1,7 @@
+{
+    "status": "OK",
+    "statusCode": 200,
+    "data": {
+        "accessToken": "eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzMCIsInN1YiI6IkpvaG4gV2ljayIsImF1dGhvcml0aWVzIjpbIlJPTEVfQ1VTVE9NRVIiXSwiaWF0IjoxNTk2Mzg3NDM5LCJleHAiOjE1OTY2MDM0Mzl9.F8sqDtgB8ij8-MeFsWyem8k8DvhS8u7iItwLk78Njvm7lq_I5lZwPpAVQQGprZoKQyBPhzU-u_BKzXl7VwdbWA"
+    }
+}

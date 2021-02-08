@@ -1,0 +1,44 @@
+{
+    "status": "OK",
+    "statusCode": 200,
+    "data": {
+        "transType": "Auth",
+        "transactionId": "98d3c6a6-a2ae-4459-a155-1d55025eec7a",
+        "card": {
+            "holderName": "",
+            "token": "17ed94df7547b64da162610e6c9dc3db",
+            "cvr": ""
+        },
+        "promotion": "000000",
+        "total": {
+            "cashback": 0.0,
+            "amount": 1000.0,
+            "tip": 0.0
+        },
+        "terminalId": "eCommerceApi",
+        "locationLatitude": 25.638704437787936,
+        "locationLongitude": -100.36171654638729,
+        "pendingSignature": false,
+        "description": "Venta demo 1",
+        "sessionId": "vaazifEI0OPqKwiExWV8p3b0nRcvir4Y",
+        "ticket": {
+            "ticketId": 970927,
+            "transType": "A",
+            "cardLastFourDigits": "2222",
+            "cardHolderName": "Jonan Hill",
+            "authResponseCode": "00",
+            "authResponseMessage": "Test",
+            "tip": 0.0,
+            "amount": 1000.0,
+            "total": 1000.0,
+            "promotion": "000000",
+            "cvr": "ONLINE_DECISION_MANAGER",
+            "visible": false
+        },
+        "lastFourDigits": "2222",
+        "transStatus": "F",
+        "responseMessage": "Failed by test mode",
+        "transIn": "2020-08-02T17:05:21.655+0000",
+        "transOut": "2020-08-02T17:05:21.656+0000"
+    }
+}

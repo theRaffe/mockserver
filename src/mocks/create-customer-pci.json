@@ -1,0 +1,26 @@
+{
+    "status": "OK",
+    "statusCode": 200,
+    "data": {
+        "id": 67,
+        "customerToken": "pk_NONV4o_FXDs3oDQfL1O3qQ==",
+        "firstName": "John",
+        "lastName": "Wick",
+        "address": [
+            {
+                "id": 77,
+                "street": "Calle San Francisco",
+                "street2": "",
+                "neighborhood": "Ciudad Satelite",
+                "phone": "9671744370",
+                "comment": "",
+                "exteriorNumber": "43",
+                "interiorNumber": "",
+                "zipCode": "64960",
+                "district": "Monterrey",
+                "state": "Nuevo Leon"
+            }
+        ],
+        "customerCards": []
+    }
+}

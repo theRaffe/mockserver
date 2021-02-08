@@ -1,0 +1,15 @@
+[
+    {
+        "addressId": 229,
+        "street": "street 1",
+        "exteriorNumber": "12",
+        "interiorNumber": "C",
+        "settlementId": 84757,
+        "userId": 457,
+        "state": "Nuevo León",
+        "zipCode": "64000",
+        "township": "Monterrey",
+        "colony": "Monterrey Centro",
+        "colonyCode": "0001"
+    }
+]

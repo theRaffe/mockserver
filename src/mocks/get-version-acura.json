@@ -1,0 +1,14 @@
+[
+    {
+        "id": 4781,
+        "vehicleKey": "010101003002",
+        "description": "MDX TECH V6 IPC AUT 4 ABS CA CE PIEL CD CQ CB",
+        "occupants": 7
+    },
+    {
+        "id": 6353,
+        "vehicleKey": "010101003003",
+        "description": "MDX A-SPEC V6 FSI AUT 5 ABS CA CE PIEL SM CQ CB",
+        "occupants": 7
+    }
+]

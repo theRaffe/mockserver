@@ -1,0 +1,11 @@
+{
+    "iOSAppId": "1513603601",
+    "DroidBundleId": "mx.com.bruno",
+    "CarPlatesSearch": "true",
+    "daysToCancelPolicies": "30",
+    "disabledInsurer": "[39]",
+    "DroidMinVersion": "1.0.0",
+    "iOSCurrentVersion": "1.0.1",
+    "DroidCurrentVersion": "1.0.0",
+    "iOSMinVersion": "1.0.1"
+}

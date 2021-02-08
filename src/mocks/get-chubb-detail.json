@@ -1,0 +1,61 @@
+[
+  {
+    "coverage": "Daños Materiales",
+    "coverageId": 1,
+    "package": "Amplia",
+    "packageId": 1,
+    "detailList": [
+      {
+        "detailName": "Deducible",
+        "detailDescription": "Es la cantidad de dinero que debes pagar a tu aseguradora en caso de sufrir un accidente o una pérdida",
+        "detailValue": "5%"
+      },
+      {
+        "detailName": "Valor Comercial de Indemnización",
+        "detailDescription": "En caso de siniestro, el valor que se tomará para calcular las indemnizaciones y los deducibles será el valor comercial que en ese momento tenga tu automóvil.",
+        "detailValue": "Incluido"
+      }
+    ]
+  },
+  {
+    "coverage": "Responsabilidad Civil por daños a terceros",
+    "coverageId": 3,
+    "package": "Amplia",
+    "packageId": 1,
+    "detailList": [
+      {
+        "detailName": "Gastos Médicos a Ocupantes",
+        "detailDescription": "Ampara el pago de gastos médicos por concepto de hospitalización, medicamentos, atención médica, enfermeros, servicio de ambulancia y gastos funerarios $500,000",
+        "detailValue": "$300,000"
+      },
+      {
+        "detailName": "Asistencia jurídica",
+        "detailDescription": "Apoyo legal en cuanto a asesorías y pago de fianzas necesarias en caso de accidente o robo de la unidad.",
+        "detailValue": "Amparado"
+      },
+      {
+        "detailName": "Daños a terceros / Fallecimiento accidental",
+        "detailDescription": "Si tienes un accidente contra otra persona y causaste daños a sus bienes, tu seguro liquida los gastos de reparación.",
+        "detailValue": "$3,000,000"
+      }
+    ]
+  },
+  {
+    "coverage": "Robo Total",
+    "coverageId": 2,
+    "package": "Amplia",
+    "packageId": 1,
+    "detailList": [
+      {
+        "detailName": "Deducible",
+        "detailDescription": "Es la cantidad de dinero que debes pagar a tu aseguradora en caso de sufrir un accidente o una pérdida",
+        "detailValue": "10%"
+      },
+      {
+        "detailName": "Valor Comercial de Indemnización",
+        "detailDescription": "En caso de siniestro, el valor que se tomará para calcular las indemnizaciones y los deducibles será el valor comercial que en ese momento tenga tu automóvil.",
+        "detailValue": "Incluido"
+      }
+    ]
+  }
+]

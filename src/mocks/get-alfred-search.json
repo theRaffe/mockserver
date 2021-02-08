@@ -1,0 +1,68 @@
+[
+    {
+        "score": 40.185146,
+        "modelString": "RDX TECH L4 IPC AUT 5 ABS CA CE PIEL SM QC CB",
+        "year": "2019",
+        "makeString": "ACURA",
+        "insuranceCompanyId": "5",
+        "modelId": "6340",
+        "rank": 1,
+        "extraData": "{\n  \"id\" : 6340,\n  \"vehicleKey\" : \"010101004005\",\n  \"description\" : \"RDX TECH L4 IPC AUT 5 ABS CA CE PIEL SM QC CB\",\n  \"occupants\" : 5\n}",
+        "makeId": "1"
+    },
+    {
+        "score": 28.139553,
+        "modelString": "RDX A-SPEC L4 IPC AUT 5 ABS CA CE PIEL SM QC CB",
+        "year": "2019",
+        "makeString": "ACURA",
+        "insuranceCompanyId": "5",
+        "modelId": "6341",
+        "rank": 2,
+        "extraData": "{\n  \"id\" : 6341,\n  \"vehicleKey\" : \"010101004006\",\n  \"description\" : \"RDX A-SPEC L4 IPC AUT 5 ABS CA CE PIEL SM QC CB\",\n  \"occupants\" : 5\n}",
+        "makeId": "1"
+    },
+    {
+        "score": 22.524403,
+        "modelString": "MDX TECH V6 IPC AUT 4 ABS CA CE PIEL CD CQ CB",
+        "year": "2019",
+        "makeString": "ACURA",
+        "insuranceCompanyId": "5",
+        "modelId": "4781",
+        "rank": 3,
+        "extraData": "{\n  \"id\" : 4781,\n  \"vehicleKey\" : \"010101003002\",\n  \"description\" : \"MDX TECH V6 IPC AUT 4 ABS CA CE PIEL CD CQ CB\",\n  \"occupants\" : 7\n}",
+        "makeId": "1"
+    },
+    {
+        "score": 49.366158,
+        "modelString": "RDX RDX TECH",
+        "year": "2019",
+        "makeString": "ACURA",
+        "insuranceCompanyId": "34",
+        "modelId": "30329",
+        "rank": 1,
+        "extraData": "{\n  \"vehicleId\" : 30329,\n  \"makeId\" : 3446,\n  \"model\" : 2019,\n  \"typeId\" : \"RDX\",\n  \"versionId\" : \"RDX TECH\",\n  \"transmissionId\" : 0,\n  \"useId\" : 0,\n  \"vehicleTypeId\" : 4579,\n  \"occupants\" : 5,\n  \"circulationAreaId\" : 0,\n  \"tonnage\" : 0,\n  \"serviceId\" : 0,\n  \"loadRiskId\" : 0\n}",
+        "makeId": "3446"
+    },
+    {
+        "score": 29.868923,
+        "modelString": "RDX RDX A-SPEC",
+        "year": "2019",
+        "makeString": "ACURA",
+        "insuranceCompanyId": "34",
+        "modelId": "30330",
+        "rank": 2,
+        "extraData": "{\n  \"vehicleId\" : 30330,\n  \"makeId\" : 3446,\n  \"model\" : 2019,\n  \"typeId\" : \"RDX\",\n  \"versionId\" : \"RDX A-SPEC\",\n  \"transmissionId\" : 0,\n  \"useId\" : 0,\n  \"vehicleTypeId\" : 4579,\n  \"occupants\" : 5,\n  \"circulationAreaId\" : 0,\n  \"tonnage\" : 0,\n  \"serviceId\" : 0,\n  \"loadRiskId\" : 0\n}",
+        "makeId": "3446"
+    },
+    {
+        "score": 25.748363,
+        "modelString": "RDX AWD NUEVA",
+        "year": "2019",
+        "makeString": "ACURA",
+        "insuranceCompanyId": "34",
+        "modelId": "17626",
+        "rank": 3,
+        "extraData": "{\n  \"vehicleId\" : 17626,\n  \"makeId\" : 3446,\n  \"model\" : 2019,\n  \"typeId\" : \"RDX\",\n  \"versionId\" : \"AWD NUEVA\",\n  \"transmissionId\" : 0,\n  \"useId\" : 0,\n  \"vehicleTypeId\" : 4579,\n  \"occupants\" : 5,\n  \"circulationAreaId\" : 0,\n  \"tonnage\" : 0,\n  \"serviceId\" : 0,\n  \"loadRiskId\" : 0\n}",
+        "makeId": "3446"
+    }
+]

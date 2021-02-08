@@ -1,0 +1,14 @@
+[
+    {
+        "id": 6340,
+        "vehicleKey": "010101004005",
+        "description": "RDX TECH L4 IPC AUT 5 ABS CA CE PIEL SM QC CB",
+        "occupants": 5
+    },
+    {
+        "id": 6341,
+        "vehicleKey": "010101004006",
+        "description": "RDX A-SPEC L4 IPC AUT 5 ABS CA CE PIEL SM QC CB",
+        "occupants": 5
+    }
+]

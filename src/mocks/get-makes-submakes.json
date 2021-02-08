@@ -1,0 +1,362 @@
+[
+    {
+        "makeId": 1,
+        "subMakeId": 1,
+        "subMake": "ACURA"
+    },
+    {
+        "makeId": 2,
+        "subMakeId": 2,
+        "subMake": "ALFA ROMEO"
+    },
+    {
+        "makeId": 3,
+        "subMakeId": 3,
+        "subMake": "AUDI"
+    },
+    {
+        "makeId": 4,
+        "subMakeId": 4,
+        "subMake": "AUTOBUS"
+    },
+    {
+        "makeId": 5,
+        "subMakeId": 5,
+        "subMake": "AUTOCAR"
+    },
+    {
+        "makeId": 51,
+        "subMakeId": 73,
+        "subMake": "BAIC"
+    },
+    {
+        "makeId": 7,
+        "subMakeId": 7,
+        "subMake": "BMW"
+    },
+    {
+        "makeId": 7,
+        "subMakeId": 8,
+        "subMake": "MINI"
+    },
+    {
+        "makeId": 7,
+        "subMakeId": 9,
+        "subMake": "MOTOCICLETAS"
+    },
+    {
+        "makeId": 8,
+        "subMakeId": 10,
+        "subMake": "CHRYSLER"
+    },
+    {
+        "makeId": 8,
+        "subMakeId": 11,
+        "subMake": "DODGE"
+    },
+    {
+        "makeId": 8,
+        "subMakeId": 13,
+        "subMake": "JEEP"
+    },
+    {
+        "makeId": 8,
+        "subMakeId": 14,
+        "subMake": "PLYMOUTH"
+    },
+    {
+        "makeId": 9,
+        "subMakeId": 15,
+        "subMake": "DINA"
+    },
+    {
+        "makeId": 50,
+        "subMakeId": 71,
+        "subMake": "DUCATI"
+    },
+    {
+        "makeId": 6,
+        "subMakeId": 6,
+        "subMake": "ESPECIALES"
+    },
+    {
+        "makeId": 6,
+        "subMakeId": 66,
+        "subMake": "FRONTERIZO"
+    },
+    {
+        "makeId": 6,
+        "subMakeId": 68,
+        "subMake": "LEGALIZADO"
+    },
+    {
+        "makeId": 6,
+        "subMakeId": 67,
+        "subMake": "OTROS"
+    },
+    {
+        "makeId": 6,
+        "subMakeId": 65,
+        "subMake": "TIENDAS"
+    },
+    {
+        "makeId": 10,
+        "subMakeId": 16,
+        "subMake": "FAMSA"
+    },
+    {
+        "makeId": 11,
+        "subMakeId": 17,
+        "subMake": "FIAT"
+    },
+    {
+        "makeId": 12,
+        "subMakeId": 18,
+        "subMake": "FORD"
+    },
+    {
+        "makeId": 12,
+        "subMakeId": 19,
+        "subMake": "LINCOLN"
+    },
+    {
+        "makeId": 12,
+        "subMakeId": 20,
+        "subMake": "MERCURY"
+    },
+    {
+        "makeId": 13,
+        "subMakeId": 21,
+        "subMake": "FOTON"
+    },
+    {
+        "makeId": 14,
+        "subMakeId": 22,
+        "subMake": "BUICK"
+    },
+    {
+        "makeId": 14,
+        "subMakeId": 23,
+        "subMake": "CADILLAC"
+    },
+    {
+        "makeId": 14,
+        "subMakeId": 24,
+        "subMake": "CHEVROLET"
+    },
+    {
+        "makeId": 14,
+        "subMakeId": 25,
+        "subMake": "GMC"
+    },
+    {
+        "makeId": 14,
+        "subMakeId": 26,
+        "subMake": "HUMMER"
+    },
+    {
+        "makeId": 14,
+        "subMakeId": 27,
+        "subMake": "PONTIAC"
+    },
+    {
+        "makeId": 14,
+        "subMakeId": 28,
+        "subMake": "SAAB"
+    },
+    {
+        "makeId": 15,
+        "subMakeId": 29,
+        "subMake": "GIANT MOTORS"
+    },
+    {
+        "makeId": 16,
+        "subMakeId": 30,
+        "subMake": "HINO"
+    },
+    {
+        "makeId": 17,
+        "subMakeId": 31,
+        "subMake": "HONDA"
+    },
+    {
+        "makeId": 45,
+        "subMakeId": 63,
+        "subMake": "MOTOCICLETAS"
+    },
+    {
+        "makeId": 47,
+        "subMakeId": 12,
+        "subMake": "HYUNDAI"
+    },
+    {
+        "makeId": 18,
+        "subMakeId": 32,
+        "subMake": "INTERNATIONAL"
+    },
+    {
+        "makeId": 19,
+        "subMakeId": 33,
+        "subMake": "ISUZU"
+    },
+    {
+        "makeId": 53,
+        "subMakeId": 75,
+        "subMake": "JAC"
+    },
+    {
+        "makeId": 20,
+        "subMakeId": 34,
+        "subMake": "JAGUAR"
+    },
+    {
+        "makeId": 21,
+        "subMakeId": 35,
+        "subMake": "KENWORTH"
+    },
+    {
+        "makeId": 48,
+        "subMakeId": 70,
+        "subMake": "KIA"
+    },
+    {
+        "makeId": 22,
+        "subMakeId": 36,
+        "subMake": "LAND ROVER"
+    },
+    {
+        "makeId": 22,
+        "subMakeId": 37,
+        "subMake": "MG"
+    },
+    {
+        "makeId": 22,
+        "subMakeId": 38,
+        "subMake": "ROVER"
+    },
+    {
+        "makeId": 23,
+        "subMakeId": 39,
+        "subMake": "MACK"
+    },
+    {
+        "makeId": 24,
+        "subMakeId": 40,
+        "subMake": "MAZDA"
+    },
+    {
+        "makeId": 25,
+        "subMakeId": 41,
+        "subMake": "MERCEDES BENZ"
+    },
+    {
+        "makeId": 26,
+        "subMakeId": 42,
+        "subMake": "MICROBUSES"
+    },
+    {
+        "makeId": 27,
+        "subMakeId": 43,
+        "subMake": "MITSUBISHI"
+    },
+    {
+        "makeId": 28,
+        "subMakeId": 44,
+        "subMake": "MOTOCICLETAS"
+    },
+    {
+        "makeId": 29,
+        "subMakeId": 45,
+        "subMake": "INFINITI"
+    },
+    {
+        "makeId": 29,
+        "subMakeId": 46,
+        "subMake": "NISSAN"
+    },
+    {
+        "makeId": 30,
+        "subMakeId": 47,
+        "subMake": "PEUGEOT"
+    },
+    {
+        "makeId": 32,
+        "subMakeId": 49,
+        "subMake": "PORSCHE"
+    },
+    {
+        "makeId": 33,
+        "subMakeId": 50,
+        "subMake": "RAMIREZ"
+    },
+    {
+        "makeId": 34,
+        "subMakeId": 51,
+        "subMake": "REMOLQUE"
+    },
+    {
+        "makeId": 35,
+        "subMakeId": 52,
+        "subMake": "RENAULT"
+    },
+    {
+        "makeId": 36,
+        "subMakeId": 53,
+        "subMake": "SKANIA"
+    },
+    {
+        "makeId": 37,
+        "subMakeId": 54,
+        "subMake": "STERLING"
+    },
+    {
+        "makeId": 46,
+        "subMakeId": 64,
+        "subMake": "STRUDER"
+    },
+    {
+        "makeId": 38,
+        "subMakeId": 55,
+        "subMake": "SUBARU"
+    },
+    {
+        "makeId": 39,
+        "subMakeId": 56,
+        "subMake": "SUZUKI"
+    },
+    {
+        "makeId": 40,
+        "subMakeId": 57,
+        "subMake": "TOYOTA"
+    },
+    {
+        "makeId": 41,
+        "subMakeId": 58,
+        "subMake": "TURISTAS"
+    },
+    {
+        "makeId": 52,
+        "subMakeId": 74,
+        "subMake": "UAZ"
+    },
+    {
+        "makeId": 42,
+        "subMakeId": 59,
+        "subMake": "SEAT"
+    },
+    {
+        "makeId": 42,
+        "subMakeId": 60,
+        "subMake": "VOLKSWAGEN"
+    },
+    {
+        "makeId": 43,
+        "subMakeId": 61,
+        "subMake": "VOLVO"
+    },
+    {
+        "makeId": 44,
+        "subMakeId": 62,
+        "subMake": "WHITE"
+    }
+]

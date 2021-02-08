@@ -1,0 +1,15 @@
+{
+    "userId": 28,
+    "userTypeId": 1,
+    "email": "raffe@pesp.com.mx",
+    "userType": "Ejecutivo",
+    "name": "raffe",
+    "primaryLastName": "Núñez",
+    "secondaryLastName": "R",
+    "color": "#679CDA",
+    "initials": "RN",
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwianRpIjoiNWYwODQxOWItNDE5MS00ZjA1LTllMGUtNTRmMzQ1ZDFhMGQzIiwiaWF0IjoxNTkwMTg0NTAwLCJleHAiOjE1OTA3ODkzMDAsIm5hbWUiOiJKb25hdGhhbiIsInByaW1hcnlMYXN0TmFtZSI6IlIiLCJzZWNvbmRhcnlMYXN0TmFtZSI6IlIiLCJ1c2VySWQiOjI4LCJlbWFpbCI6ImVAZS5lIiwiYXZhdGFyIjoiSlI6Q0NDQ0NDIn0.ieN3-DU1hufQHo4-iOub4yajP210cKj1p3u2B_UuHKM",
+    "tokenExpirationDate": "2020-05-29 21:55:00",
+    "velPayId": 30,
+    "velPayToken": "faketoken"
+}

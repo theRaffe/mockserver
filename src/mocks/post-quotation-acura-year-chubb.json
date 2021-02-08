@@ -1,0 +1,36 @@
+{
+    "movementId": 738,
+    "insuranceCompanyId": 5,
+    "insuranceCompany": "CHUBB",
+    "quoteId": "65468602",
+    "wayToPayId": 1,
+    "wayToPay": "ANUAL",
+    "packageId": 1,
+    "package_": "AMPLIA",
+    "vehicle": "ACURA MDX TEST",
+    "netPremium": 6894.92,
+    "financing": null,
+    "policyRight": 450.0,
+    "discount": 0.0,
+    "iva": 1267.74,
+    "totalPremium": 20500.15,
+    "coverages": [
+        {
+            "description": "Daños Materiales",
+            "sumAssured": 783920.0,
+            "deductible": 5.0,
+            "netPremium": 14798.721110297014
+        },
+        {
+            "description": "Robo Total",
+            "sumAssured": 783920.0,
+            "deductible": 10.0,
+            "netPremium": 5476.908928967519
+        }
+    ],
+    "receiptInfo": {
+        "quantity": 1,
+        "amount": 18431.79,
+        "policyRight": 0.0
+    }
+}

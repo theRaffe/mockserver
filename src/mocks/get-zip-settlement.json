@@ -1,0 +1,35 @@
+[
+    {
+        "settlementId": 85372,
+        "zipCode": "64850",
+        "description": "Contry Tesoro",
+        "settlementType": "Colonia",
+        "township": "Monterrey",
+        "state": "Nuevo León",
+        "city": "Monterrey",
+        "zone": "Urbano",
+        "colonyCode": "0482"
+    },
+    {
+        "settlementId": 85373,
+        "zipCode": "64850",
+        "description": "Torremolinos",
+        "settlementType": "Colonia",
+        "township": "Monterrey",
+        "state": "Nuevo León",
+        "city": "Monterrey",
+        "zone": "Urbano",
+        "colonyCode": "0484"
+    },
+    {
+        "settlementId": 85374,
+        "zipCode": "64850",
+        "description": "Villa del Río",
+        "settlementType": "Colonia",
+        "township": "Monterrey",
+        "state": "Nuevo León",
+        "city": "Monterrey",
+        "zone": "Urbano",
+        "colonyCode": "0485"
+    }
+]

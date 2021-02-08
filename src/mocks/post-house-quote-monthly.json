@@ -1,0 +1,164 @@
+{
+    "movementId": 1292,
+    "insuranceCompanyId": 5,
+    "insuranceCompany": "CHUBB",
+    "quoteId": "101079303",
+    "startDate": "2021-01-14",
+    "endDate": "2022-01-14",
+    "wayToPayId": 1,
+    "wayToPay": "MENSUAL",
+    "packageId": 1,
+    "package_": "Propietario Total",
+    "housingTypeId": 1,
+    "housingType": "CASA",
+    "netPremium": 13240.16,
+    "policyRight": 100.0,
+    "discount": 0.0,
+    "iva": 2134.43,
+    "totalPremium": 15474.59,
+    "coverages": [
+        {
+            "description": "Incendio Edificio",
+            "sumAssured": 5200000,
+            "deductible": 0.0,
+            "netPremium": null
+        },
+        {
+            "description": "Gastos Extras",
+            "sumAssured": 780000,
+            "deductible": 0.0,
+            "netPremium": null
+        },
+        {
+            "description": "Rotura por Corrosión en Tuberías y Su Localización",
+            "sumAssured": 3000,
+            "deductible": 0.0,
+            "netPremium": null
+        },
+        {
+            "description": "Terremoto y/o Erupción Volcánica (Edificio)",
+            "sumAssured": 5200000,
+            "deductible": 2.0,
+            "netPremium": null
+        },
+        {
+            "description": "Fenómenos Hidrometeorológicos (Edificio)",
+            "sumAssured": 5200000,
+            "deductible": 1.0,
+            "netPremium": null
+        },
+        {
+            "description": "Bienes a la Intemperie (Edificio)",
+            "sumAssured": 260000,
+            "deductible": 5.0,
+            "netPremium": null
+        },
+        {
+            "description": "Incendio Contenidos",
+            "sumAssured": 2600000,
+            "deductible": 0.0,
+            "netPremium": null
+        },
+        {
+            "description": "Terremoto y/o Erupción Volcánica (Contenido)",
+            "sumAssured": 2600000,
+            "deductible": 2.0,
+            "netPremium": null
+        },
+        {
+            "description": "Bienes a la Intemperie (Contenido)",
+            "sumAssured": 260000,
+            "deductible": 5.0,
+            "netPremium": null
+        },
+        {
+            "description": "Mascotas",
+            "sumAssured": 10000,
+            "deductible": 1000.0,
+            "netPremium": null
+        },
+        {
+            "description": "Cristales",
+            "sumAssured": 104000,
+            "deductible": 5.0,
+            "netPremium": null
+        },
+        {
+            "description": "Robo con Violencia y/o Asalto",
+            "sumAssured": 520000,
+            "deductible": 10.0,
+            "netPremium": null
+        },
+        {
+            "description": "Dinero en Efectivo Dentro del Hogar",
+            "sumAssured": 10000,
+            "deductible": 10.0,
+            "netPremium": null
+        },
+        {
+            "description": "Objetos Personales",
+            "sumAssured": 52000,
+            "deductible": 10.0,
+            "netPremium": null
+        },
+        {
+            "description": "Responsabilidad Civil Familiar",
+            "sumAssured": 5200000,
+            "deductible": 0.0,
+            "netPremium": null
+        },
+        {
+            "description": "Responsabilidad Civil Doméstica",
+            "sumAssured": 100000,
+            "deductible": 10.0,
+            "netPremium": null
+        },
+        {
+            "description": "Asistencias de Emergencia en el hogar",
+            "sumAssured": 0,
+            "deductible": 0.0,
+            "netPremium": null
+        },
+        {
+            "description": "Asistencia Tecnológica",
+            "sumAssured": 0,
+            "deductible": 0.0,
+            "netPremium": null
+        },
+        {
+            "description": "Asistencia Técnico Especialista",
+            "sumAssured": 1000,
+            "deductible": 0.0,
+            "netPremium": null
+        },
+        {
+            "description": "Daños Materiales al Equipo Electrónico Fijo",
+            "sumAssured": 150000,
+            "deductible": 7.0,
+            "netPremium": null
+        },
+        {
+            "description": "Daños Materiales al Equipo Electrónico Móvil (sin celular)",
+            "sumAssured": 69000,
+            "deductible": 20.0,
+            "netPremium": null
+        },
+        {
+            "description": "Robo de Equipo Electrónico Móvil (sin celular)",
+            "sumAssured": 69000,
+            "deductible": 20.0,
+            "netPremium": null
+        },
+        {
+            "description": "Remoción de Escombros",
+            "sumAssured": 780000,
+            "deductible": 0.0,
+            "netPremium": null
+        }
+    ],
+    "receiptInfo": {
+        "quantity": 12,
+        "amount": 1279.88,
+        "policyRight": 116.0
+    }
+}

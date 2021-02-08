@@ -1,0 +1,80 @@
+{
+  "movementId": 6636,
+  "insuranceCompanyId": 34,
+  "insuranceCompany": "HDI",
+  "policyNumber": "30619",
+  "startDate": "2020-08-04",
+  "endDate": "2021-08-04",
+  "customer": {
+    "rfc": "LASR000705123",
+    "firstName": "raffe",
+    "secondName": "",
+    "firstSurname": "lastname",
+    "lastSurname": "secundSx",
+    "birthdate": "2000-07-05",
+    "sex": 1
+  },
+  "driver": {
+    "rfc": "LASR030628",
+    "firstName": "raffe",
+    "secondName": "",
+    "firstSurname": "lastname",
+    "lastSurname": "secundSx",
+    "birthdate": "2003-06-28",
+    "sex": 2
+  },
+  "premium": {
+    "netPremium": 6999.86,
+    "iva": 1325.17,
+    "totalPremium": 9607.52,
+    "rights": 600.0,
+    "surcharge": null,
+    "discount": 0.0,
+    "bonus": null,
+    "financing": 682.49
+  },
+  "coverages": [
+    {
+      "description": "Gastos MÃ©dicos Ocupantes (LÃ­mite Ãšnico Combinado)",
+      "sumAssured": 500000.0,
+      "deductible": 0.0,
+      "netPremium": 965.51
+    },
+    {
+      "description": "Responsabilidad Civil (LÃ­mite Ãšnico y Combinado)",
+      "sumAssured": 1500000.0,
+      "deductible": 0.0,
+      "netPremium": 4966.58
+    },
+    {
+      "description": "Responsabilidad Civil Exceso por Muerte",
+      "sumAssured": 2500000.0,
+      "deductible": 0.0,
+      "netPremium": 298.92
+    },
+    {
+      "description": "Asistencia JurÃ­dica",
+      "sumAssured": 0.0,
+      "deductible": 0.0,
+      "netPremium": 308.75
+    },
+    {
+      "description": "Asistencia en Viajes",
+      "sumAssured": 0.0,
+      "deductible": 0.0,
+      "netPremium": 262.49
+    },
+    {
+      "description": "Responsabilidad USA y CanadÃ¡",
+      "sumAssured": 150000.0,
+      "deductible": 0.0,
+      "netPremium": 197.6
+    },
+    {
+      "description": "ExtensiÃ³n de Responsabilidad Civil para AutomÃ³vil Particular",
+      "sumAssured": 1500000.0,
+      "deductible": 0.0,
+      "netPremium": 0.0
+    }
+  ]
+}
